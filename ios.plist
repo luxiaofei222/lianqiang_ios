@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://192.168.36.243/wenjian/app/version/__UNI__4BC333A_0916111937.ipa</string> 
+                    <string>https://192.168.36.243/wenjian/app/version/__UNI__4BC333A_0916111937.ipa</string> 
                 </dict>
             </array>
             <key>metadata</key>
